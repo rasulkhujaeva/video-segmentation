@@ -3,7 +3,7 @@ import numpy as np
 from sklearn.cluster import KMeans
 
 # Video dosyasını aç
-video = cv2.VideoCapture("traffic_videos.mp4")
+video = cv2.VideoCapture("traffic_video.mp4")
 
 frame_count = 0
 
